@@ -24,6 +24,8 @@
         <br>Valor de j:{{  $j }} 
         @endfor 
     </h2>
-     
+     <h3>
+        Esta es una prueba de Git
+     </h3>
 </body>
 </html>
